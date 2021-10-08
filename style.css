@@ -157,6 +157,10 @@ a:hover {
     text-transform: initial ;
 }
 
+.phrase-fin{
+    font-size: 15px ;
+}
+
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
